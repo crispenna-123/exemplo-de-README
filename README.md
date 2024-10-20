@@ -30,3 +30,5 @@ Microsoft Copilot AI | [Certificado](https://www.dio.me/certificate/IWGNOMLK/sha
 
 -----
 ![Cristiano Penna GitHub stats](https://github-readme-stats.vercel.app/api?username=crispenna-123&show_icons=true&theme=dracula)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crispenna-123&layout=compact)
