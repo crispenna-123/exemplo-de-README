@@ -7,7 +7,7 @@
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas e Jogos Digitais.
 
-📃 ![Acesse meu Linkedin](https://br.linkedin.com/in/cris-rosapenna)
+📃 [Acesse meu Linkedin](https://www.linkedin.com/in/cris-rosapenna/)
 ------
 
 ### Minhas Tecnologias
