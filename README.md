@@ -24,3 +24,7 @@
 | -------- | ------------ |
 GFT Start #6 - Lógica de Programação | [Certificado](https://www.dio.me/certificate/ATGLNKIZ/share)
 Microsoft Copilot AI | [Certificado](https://www.dio.me/certificate/IWGNOMLK/share)
+
+
+-----
+![Cristiano Penna GitHub stats](https://github-readme-stats.vercel.app/api?username=crispenna-123&show_icons=true&theme=dracula)
