@@ -11,8 +11,15 @@
 ------
 
 ### Minhas Tecnologias
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px" > 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px"/> 
+-------
+
+| Cursos | Certificados |
+| ------------- | -------------- |
+GFT Start #6 - Lógica de Programação | [Certificado](https://www.dio.me/certificate/ATGLNKIZ/share)
+Microsoft Copilot AI | [Certificado](https://www.dio.me/certificate/IWGNOMLK/share)
